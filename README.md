@@ -12,12 +12,12 @@ The project include two main program files to be executed:
 - Distillate and bottoms composition
 - Distillate and bottoms flow rate for a given feed mixture flow rate
 
-<img src="https://github.com/Konstantin642/DistillCalcs/blob/main/images/Rectification_example1.png" height="300"> <img src="https://github.com/Konstantin642/DistillCalcs/blob/main/images/Rectification_example2.png" height="300">
+<img src="https://github.com/Konstantin642/DistillCalcs/blob/main/images/Rectification_example1.png" height="200"> <img src="https://github.com/Konstantin642/DistillCalcs/blob/main/images/Rectification_example2.png" height="200">
 
 ### Simple_Distillation
 "Simple_Distillation_Usage" allows you to determine the composition and flows of the still residue and distillate of simple distillation depending on the degree of removal of the volatile component from the feed mixture.
 
-<img src="https://github.com/Konstantin642/DistillCalcs/blob/main/images/Simple_Distillation_example1.png" height="300"> <img src="https://github.com/Konstantin642/DistillCalcs/blob/main/images/Simple_Distillation_example2.png" height="300">
+<img src="https://github.com/Konstantin642/DistillCalcs/blob/main/images/Simple_Distillation_example1.png" height="200"> <img src="https://github.com/Konstantin642/DistillCalcs/blob/main/images/Simple_Distillation_example2.png" height="200">
 
 ## Instructions for use 
 To successfully run the program, the following Python libraries must be installed:
