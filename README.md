@@ -12,7 +12,7 @@ The project include two main program files to be executed:
 - Distillate and bottoms composition
 - Distillate and bottoms flow rate for a given feed mixture flow rate
 
-![Rectification example1](images/Rectification example1.png)
+![Rectification example1](images/Rectification_example1.png)
 ![Rectification example2](images/Rectification example2.png)
 
 ### Simple_Distillation
