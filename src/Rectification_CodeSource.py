@@ -134,7 +134,7 @@ def find_components_separation_conditions(xw, xf, xd, M_1, M_2, Gf, is_changed):
         print(f"    - Bottmoms: \t xw={1-xw:.3f} \t\t xw_mas={1-xw_mas:.3f}   ")        
         print(f"\nIf the Feed mass flow rate Gf={Gf} \n   - Distillate: Gw={Gd:.3f} \n   - Bottmoms: Gd={Gw:.3f}")
         
-    print(f"\nYield of low-boing compounent in distillate: Gd*xd_mas/(Gf*xf_mas)*100% = {(Gd*xd_mas/(Gf*xf_mas)*100):.2f}%")
+    print(f"\nYield of low-boiling compounent in distillate: Gd*xd_mas/(Gf*xf_mas)*100% = {(Gd*xd_mas/(Gf*xf_mas)*100):.2f}%")
     return xd_mas, xf_mas, xw_mas, Gd, Gw
 
 def find_R_min(cs_y_eq, xd,xf):
@@ -289,5 +289,4 @@ def main(equlibrium_data_fileName, xw, xf, xd, R_UD, Gf, R_test):
                 find_N_theoretical_Stages(cs_y_eq, xd,xf,xw,i,F,R_min)
         
         draw_plot(x_stages, y_stages, cs_y_eq, data,xd,xf,xw,R,F,is_changed)
-
 
