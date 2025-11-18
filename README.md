@@ -12,13 +12,11 @@ The project include two main program files to be executed:
 - Distillate and bottoms composition
 - Distillate and bottoms flow rate for a given feed mixture flow rate
 
-![Rectification example1](images/Rectification_example1.png)
-![Rectification example2](images/Rectification example2.png)
+![Rectification example1](images/Rectification_example1.png) ![Rectification example2](images/Rectification_example2.png)
 
 ### Simple_Distillation
 "Simple_Distillation_Usage" allows you to determine the composition and flows of the still residue and distillate of simple distillation depending on the degree of removal of the volatile component from the feed mixture.
-![Simple_Distillation example1](images/Simple_Distillation example1.png)
-![Simple_Distillation example2](images/Simple_Distillation example2.png)
+![Simple_Distillation example1](images/Simple_Distillation_example1.png) ![Simple_Distillation example2](images/Simple_Distillation_example2.png)
 
 
 ## Instructions for use 
