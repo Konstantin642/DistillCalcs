@@ -11,10 +11,14 @@ The project include two main program files to be executed:
 - Minimum reflux ratio
 - Distillate and bottoms composition
 - Distillate and bottoms flow rate for a given feed mixture flow rate
-  
+
+![Rectification example1](images/Rectification example1.png)
+![Rectification example2](images/Rectification example2.png)
+
 ### Simple_Distillation
 "Simple_Distillation_Usage" allows you to determine the composition and flows of the still residue and distillate of simple distillation depending on the degree of removal of the volatile component from the feed mixture.
-
+![Simple_Distillation example1](images/Simple_Distillation example1.png)
+![Simple_Distillation example2](images/Simple_Distillation example2.png)
 
 
 ## Instructions for use 
@@ -22,7 +26,7 @@ To successfully run the program, the following Python libraries must be installe
 - NumPy
 - Matplotlib
 - SciPy
-- 
+  
 ### "Rectification_Usage"
 1) Create a text document to store VLE data (or use the ones provided in the "data" folder).
 - In the first two lines, write the molecular masses of components #1 and #2:
