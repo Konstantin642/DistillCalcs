@@ -5,7 +5,7 @@ The project include two main program files to be executed:
 2) Simple_Distillation_Usage – a file for calculating simple distillation.
 
 ## Rectification
-"Rectification_Usage" allows you to calculate the following rectification parameters:
+"Rectification_Usage" allows you to calculate the following distillation column parameters:
 - Number of theoretical stages
 - Feed stage
 - Minimum reflux ratio
@@ -15,7 +15,7 @@ The project include two main program files to be executed:
 <img src="https://github.com/Konstantin642/DistillCalcs/blob/main/images/Rectification_example1.png" height="200"> <img src="https://github.com/Konstantin642/DistillCalcs/blob/main/images/Rectification_example2.png" height="200">
 
 ## Simple_Distillation
-"Simple_Distillation_Usage" allows you to determine the composition and flows of the still residue and distillate of simple distillation depending on the degree of removal of the volatile component from the feed mixture.
+"Simple_Distillation_Usage" allows you to determine the composition and flows of the bottoms and distillate of simple distillation depending on the degree of removal of the volatile component from the feed mixture.
 
 <img src="https://github.com/Konstantin642/DistillCalcs/blob/main/images/Simple_Distillation_example1.png" height="200"> <img src="https://github.com/Konstantin642/DistillCalcs/blob/main/images/Simple_Distillation_example2.png" height="200">
 
